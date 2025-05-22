@@ -4,6 +4,16 @@
 To perform Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
 # Algorithm:  
+- Step 1: Define Content Type & Audience
+Identify what you're creating (report, story, documentation, etc.) and specify your exact audience with their needs, skill level, and decision-making context.
+- Step 2: Choose Appropriate Framework
+Select the right structural framework - DECIDE for decisions, Hero's Journey for creative content, STAR for case studies, or modular approach for technical docs.
+- Step 3: Decompose Your Request
+Break down your prompt into specific components instead of generic requests. List exactly what sections, analysis types, and outcomes you want.
+- Step 4: Add Context Constraints
+Include semantic filters (what to include/exclude), success criteria, format requirements, and any specific methodologies or data sources to use.
+- Step 5: Iterate with Validation
+Test your prompt, evaluate the output quality against your criteria, then refine the prompt structure based on gaps or improvements needed.
 
 ## 1. Query Decomposition Technique
 
@@ -211,6 +221,10 @@ Include:
 - Business frameworks ensure strategic value
 - Quantifiable outcomes increase credibility
 - Systematic approaches ensure consistency
+
+![image](https://github.com/user-attachments/assets/65958b49-4125-46a7-b7ce-309901c0772f)
+
+![image](https://github.com/user-attachments/assets/dc4f2bde-78cc-4c50-b49e-d2b59923b19d)
 
 # Result :  
 The corresponding prompt executed successfully.
